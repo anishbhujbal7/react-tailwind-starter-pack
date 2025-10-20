@@ -2,7 +2,7 @@
 - npm install -D tailwindcss@3
 - npx tailwindcss init -p
 
-## React Starter Pack — Secured Vault Network
+## React Starter Pack 
 
 This repository contains a **ready-to-use React starter pack** that includes all essential configurations, dependencies, and project structure required to quickly start building production-ready React applications.
 
