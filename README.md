@@ -1,6 +1,6 @@
 # necessary commands
-npm install -D tailwindcss@3
-npx tailwindcss init -p
+- npm install -D tailwindcss@3
+- npx tailwindcss init -p
 
 ## React Starter Pack — Secured Vault Network
 
